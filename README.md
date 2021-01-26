@@ -1,5 +1,5 @@
 # Hanabi-Game
-Simple hanabi game made in pure C. 
+Simple hanabi game made in C. 
 
 # Details
 The game works player vs bot. Well, it plays Hanabi xd. 
